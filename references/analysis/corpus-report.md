@@ -1,6 +1,6 @@
 # Buzzbuzz 本地语料分析报告
 
-- 语料目录：references/sources/notes（本地私有语料，不随 Skill 分发）
+- 语料目录：references/sources/notes
 - 笔记数：222
 - 时间范围：2022-06-18 至 2026-10-14
 - 正文字符数：156,461

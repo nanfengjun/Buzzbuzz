@@ -305,7 +305,7 @@ def commercial_notes(notes: list[Note]) -> list[dict[str, object]]:
 def build_report(notes: list[Note], source_root: Path) -> tuple[str, dict[str, object]]:
     notes.sort(key=lambda n: n.published_at)
     source_label = (
-        "references/sources/notes（本地私有语料，不随 Skill 分发）"
+        "references/sources/notes"
         if source_root.name == "notes" and source_root.parent.name == "sources"
         else "本地语料目录（未写入公开报告）"
     )

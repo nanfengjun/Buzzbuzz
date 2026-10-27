@@ -350,6 +350,6 @@ description: |
 - `references/analysis/corpus-report.md`
 - `references/writing-playbook.md`
 
-原始笔记是本地私有语料，不随本 Skill 的公开仓库分发；本机开发时位于 `references/sources/notes/`。仓库中的提炼和分析只来自这些文件，无网络资料。
+原始笔记位于 `references/sources/notes/`。仓库中的提炼和分析只来自这些文件，无网络资料。
 
 ---

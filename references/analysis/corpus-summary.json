@@ -1,6 +1,6 @@
 {
-  "source_root": "references/sources/notes（本地私有语料，不随 Skill 分发）",
-  "generated_at": "2026-10-27T10:45:36+08:00",
+  "source_root": "references/sources/notes",
+  "generated_at": "2026-10-27T10:47:22+08:00",
   "corpus_fingerprint": "64c6430f5fddd08d454576be35ccccadd77000aaa7545b2c6d9431972813fc91",
   "overall": {
     "notes": 222,
