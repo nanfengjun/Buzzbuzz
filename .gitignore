@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Private source export; add your own local notes here when re-running analysis.
+references/sources/notes/

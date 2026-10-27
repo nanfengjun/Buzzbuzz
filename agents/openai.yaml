@@ -1,0 +1,7 @@
+interface:
+  display_name: "Buzzbuzz 风格写作"
+  short_description: "高保真仿写 Buzzbuzz 风格的小红书生活笔记"
+  default_prompt: "用 $buzzbuzz-perspective 根据我提供的真实素材写一篇小红书笔记。"
+
+policy:
+  allow_implicit_invocation: true
